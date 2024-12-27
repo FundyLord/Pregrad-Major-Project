@@ -52,6 +52,18 @@ Other features include client demographics, loan details, and historical interac
    ```bash
    git clone https://github.com/FundyLord/Pregrad-Major-Project.git
    cd Pregrad-Major-Project
+2. **Install the required libraries**:
+   > Requirements are listed in `requirements.txt`.
+
+   ```bash
+   pip install -r requirements.txt
+3. **Run the notebook**:
+   Start Jupyter Notebook and open `main_notebook.ipynb` to explore the analysis steps.
+
+   ```bash
+   jupyter notebook
+  Open main_notebook.ipynb to view the project workflow, analysis, and modeling steps.
+
 
 ## Usage
 1. Open the Jupyter Notebook file **`Pregrad_Major_Project.ipynb`**.
