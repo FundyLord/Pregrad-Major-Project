@@ -40,3 +40,10 @@ Other features include client demographics, loan details, and historical interac
 5. **Model Evaluation**:
    - Metrics used: Accuracy, Precision, Recall, F1-score.
    - Analyzing feature importance.
+
+ ## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn (for data visualization)
+- Scikit-learn (for machine learning)
