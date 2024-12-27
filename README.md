@@ -5,7 +5,7 @@ This repository contains the code and resources for analyzing and predicting loa
 - [Dataset Description](#Dataset-Description)
 - [Project Workflow](#Project-Workflow)
 - [Technologies Used](#Technologies-Used)
-- [Installation](#Installation)
+- [Setup & Installation](#Setup-&-Installation)
 - [Usage](#Usage)
 - [Results](#Results)
 - [License](#License)
@@ -47,7 +47,11 @@ Other features include client demographics, loan details, and historical interac
 - Matplotlib / Seaborn (for data visualization)
 - Scikit-learn (for machine learning)
 
-## Installation
+## Setup & Installation
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/FundyLord/Pregrad-Major-Project.git
+   cd Pregrad-Major-Project
 
 ## Usage
 1. Open the Jupyter Notebook file **`Pregrad_Major_Project.ipynb`**.
