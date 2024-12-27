@@ -10,3 +10,16 @@ This repository contains the code and resources for analyzing and predicting loa
 - [Results](#Results)
 - [Contributing](#Contributing)
 - [License](#License)
+
+---
+
+## Introduction
+The objective of this project is to predict whether a loan application will be approved or not based on various factors. By analyzing historical data, we aim to provide insights into key factors affecting loan approval and build a machine learning model to automate this decision-making process.
+
+## Data Description
+The dataset includes features such as:
+- pdays: Number of days since the client was last contacted.
+- previous: Number of contacts performed before the current campaign.
+- no_previous_contact: Binary feature indicating whether there were previous contacts.
+- poutcome_success: Binary feature indicating the success of the previous marketing campaign.
+Other features include client demographics, loan details, and historical interactions. The target column is Loan_Status_label, which indicates loan approval status.
