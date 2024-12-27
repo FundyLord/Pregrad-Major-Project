@@ -51,7 +51,7 @@ Other features include client demographics, loan details, and historical interac
 ## Installation
 
 ## Usage
-1. Open the Jupyter Notebook file Pregrad_Major_Project.ipynb.
+1. Open the Jupyter Notebook file **`Pregrad_Major_Project.ipynb`**.
 2. Follow the steps in the notebook to:
    - Preprocess and analyze the dataset.
    - Train and evaluate machine learning models.
