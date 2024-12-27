@@ -18,9 +18,9 @@ The objective of this project is to predict whether a loan application will be a
 
 ## Data Description
 The dataset includes features such as:
- - pdays: Number of days since the client was last contacted.
- - previous: Number of contacts performed before the current campaign.
- - no_previous_contact: Binary feature indicating whether there were previous contacts.
- - poutcome_success: Binary feature indicating the success of the previous marketing campaign.
+ - `pdays`: Number of days since the client was last contacted.
+ - `previous`: Number of contacts performed before the current campaign.
+ - `no_previous_contact`: Binary feature indicating whether there were previous contacts.
+ - `poutcome_success`: Binary feature indicating the success of the previous marketing campaign.
 
-Other features include client demographics, loan details, and historical interactions. The target column is Loan_Status_label, which indicates loan approval status.
+Other features include client demographics, loan details, and historical interactions. The target column is `Loan_Status_label`, which indicates loan approval status.
