@@ -47,3 +47,12 @@ Other features include client demographics, loan details, and historical interac
 - NumPy
 - Matplotlib / Seaborn (for data visualization)
 - Scikit-learn (for machine learning)
+
+## Installation
+
+## Usage
+1. Open the Jupyter Notebook file Pregrad_Major_Project.ipynb.
+2. Follow the steps in the notebook to:
+   - Preprocess and analyze the dataset.
+   - Train and evaluate machine learning models.
+3. View the results and insights.
