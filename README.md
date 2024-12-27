@@ -8,7 +8,6 @@ This repository contains the code and resources for analyzing and predicting loa
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Results](#Results)
-- [Contributing](#Contributing)
 - [License](#License)
 
 ---
@@ -62,3 +61,6 @@ Other features include client demographics, loan details, and historical interac
 The project demonstrates the successful prediction of loan approval status with the following highlights:
 - Key features influencing loan approval identified.
 - Models evaluated for accuracy and reliability.
+
+## License
+This project is licensed under the MIT License. See the [MIT License](LICENSE) file for details.
