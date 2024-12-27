@@ -27,16 +27,16 @@ Other features include client demographics, loan details, and historical interac
 
 ## Project Workflow
 1. **Data Preprocessing**:
-- Understanding the data
-- Handling missing values.
+ - Understanding the data
+ - Handling missing values.
 2. **Exploratory Data Analysis (EDA)**:
-- Analyzing distributions of key variables.
-- Visualizing correlations and dependencies between features.
+ - Analyzing distributions of key variables.
+ - Visualizing correlations and dependencies between features.
 3. **Feature Engineering**:
-- Selecting and transforming relevant features.
+ - Selecting and transforming relevant features.
 4. **Model Implementation**:
-- Building and evaluating models (such as., Logistics Regression, SVM, Decision Tree, KNN).
-- Hyperparameter tuning for optimal performance.
+ - Building and evaluating models (such as., Logistics Regression, SVM, Decision Tree, KNN).
+ - Hyperparameter tuning for optimal performance.
 5. **Model Evaluation**:
-- Metrics used: Accuracy, Precision, Recall, F1-score.
-- Analyzing feature importance.
+ - Metrics used: Accuracy, Precision, Recall, F1-score.
+ - Analyzing feature importance.
