@@ -1,0 +1,18 @@
+Here’s the list of libraries required:  
+
+1. `pandas`  
+2. `numpy` 
+3. `matplotlib.pyplot`  
+4. `seaborn`  
+5. `scipy.stats`  
+6. `sklearn.model_selection.train_test_split`  
+7. `sklearn.linear_model.LogisticRegression`  
+8. `sklearn.svm.SVC`  
+9. `sklearn.metrics.accuracy_score`  
+10. `sklearn.metrics.confusion_matrix`  
+11. `sklearn.metrics.classification_report`  
+12. `imblearn.over_sampling.SMOTE`  
+13. `sklearn.neighbors.KNeighborsClassifier`
+14. `sklearn.tree.DecisionTreeClassifier`
+15. `sklearn.model_selection.GridSearchCV`
+ 
