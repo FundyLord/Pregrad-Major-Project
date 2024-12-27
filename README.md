@@ -60,5 +60,5 @@ Other features include client demographics, loan details, and historical interac
 ## Results
 
 The project demonstrates the successful prediction of loan approval status with the following highlights:
--- Key features influencing loan approval identified.
--- Models evaluated for accuracy and reliability.
+- Key features influencing loan approval identified.
+- Models evaluated for accuracy and reliability.
