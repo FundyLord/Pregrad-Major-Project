@@ -22,4 +22,5 @@ The dataset includes features such as:
  - previous: Number of contacts performed before the current campaign.
  - no_previous_contact: Binary feature indicating whether there were previous contacts.
  - poutcome_success: Binary feature indicating the success of the previous marketing campaign.
+
 Other features include client demographics, loan details, and historical interactions. The target column is Loan_Status_label, which indicates loan approval status.
