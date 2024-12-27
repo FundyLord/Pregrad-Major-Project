@@ -56,3 +56,9 @@ Other features include client demographics, loan details, and historical interac
    - Preprocess and analyze the dataset.
    - Train and evaluate machine learning models.
 3. View the results and insights.
+
+## Results
+
+The project demonstrates the successful prediction of loan approval status with the following highlights:
+--Key features influencing loan approval identified.
+--Models evaluated for accuracy and reliability.
